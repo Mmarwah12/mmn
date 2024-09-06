@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35122.118
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Sweets", "Sweets\Sweets.csproj", "{4A9B305A-03C3-4B8B-A5FD-3BEC7481F5EA}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Clint2024", "Clint2024\Clint2024.csproj", "{9194FCBD-AD73-441D-BE5D-E287DD993428}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{B4F4AD83-EA0B-46AC-ABC1-D65986C9D827}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4A9B305A-03C3-4B8B-A5FD-3BEC7481F5EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A9B305A-03C3-4B8B-A5FD-3BEC7481F5EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A9B305A-03C3-4B8B-A5FD-3BEC7481F5EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A9B305A-03C3-4B8B-A5FD-3BEC7481F5EA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9194FCBD-AD73-441D-BE5D-E287DD993428}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9194FCBD-AD73-441D-BE5D-E287DD993428}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9194FCBD-AD73-441D-BE5D-E287DD993428}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9194FCBD-AD73-441D-BE5D-E287DD993428}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4E1A4CE0-05AF-434D-80B1-C548385E5D69}
+	EndGlobalSection
+EndGlobal
